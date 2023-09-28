@@ -1,4 +1,3 @@
-#!/usr/bin/env bash 
 # using puppet manifest to make changes to our configuration file
 
 include stdlib
